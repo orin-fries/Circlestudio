@@ -1,0 +1,14 @@
+C:\Users\orin fries\Documents\C-practice\Circlestudio\Circlestudio\bin\Debug\netcoreapp3.1\Circlestudio.exe
+C:\Users\orin fries\Documents\C-practice\Circlestudio\Circlestudio\bin\Debug\netcoreapp3.1\Circlestudio.deps.json
+C:\Users\orin fries\Documents\C-practice\Circlestudio\Circlestudio\bin\Debug\netcoreapp3.1\Circlestudio.runtimeconfig.json
+C:\Users\orin fries\Documents\C-practice\Circlestudio\Circlestudio\bin\Debug\netcoreapp3.1\Circlestudio.runtimeconfig.dev.json
+C:\Users\orin fries\Documents\C-practice\Circlestudio\Circlestudio\bin\Debug\netcoreapp3.1\Circlestudio.dll
+C:\Users\orin fries\Documents\C-practice\Circlestudio\Circlestudio\bin\Debug\netcoreapp3.1\Circlestudio.pdb
+C:\Users\orin fries\Documents\C-practice\Circlestudio\Circlestudio\obj\Debug\netcoreapp3.1\Circlestudio.csproj.AssemblyReference.cache
+C:\Users\orin fries\Documents\C-practice\Circlestudio\Circlestudio\obj\Debug\netcoreapp3.1\Circlestudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orin fries\Documents\C-practice\Circlestudio\Circlestudio\obj\Debug\netcoreapp3.1\Circlestudio.AssemblyInfoInputs.cache
+C:\Users\orin fries\Documents\C-practice\Circlestudio\Circlestudio\obj\Debug\netcoreapp3.1\Circlestudio.AssemblyInfo.cs
+C:\Users\orin fries\Documents\C-practice\Circlestudio\Circlestudio\obj\Debug\netcoreapp3.1\Circlestudio.csproj.CoreCompileInputs.cache
+C:\Users\orin fries\Documents\C-practice\Circlestudio\Circlestudio\obj\Debug\netcoreapp3.1\Circlestudio.dll
+C:\Users\orin fries\Documents\C-practice\Circlestudio\Circlestudio\obj\Debug\netcoreapp3.1\Circlestudio.pdb
+C:\Users\orin fries\Documents\C-practice\Circlestudio\Circlestudio\obj\Debug\netcoreapp3.1\Circlestudio.genruntimeconfig.cache
